@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the faithful soldiers of the army: to all the honest people of the nation. Shewing their resolution to stand by the good old cause and maintain the liberties and priviledges of the subject.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82144</idno>
+            <idno type="STC">Wing D667</idno>
+            <idno type="STC">Thomason E980_7</idno>
+            <idno type="STC">ESTC R207732</idno>
+            <idno type="EEBO-CITATION">99866768</idno>
+            <idno type="PROQUEST">99866768</idno>
+            <idno type="VID">168558</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82144)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168558)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 145:E980[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the faithful soldiers of the army: to all the honest people of the nation. Shewing their resolution to stand by the good old cause and maintain the liberties and priviledges of the subject.</title>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 2d"; "May 2".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Sources --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168558:1" rendition="simple:additions"/>
+            <p>A DECLARATION Of the Faithful SOLDIERS OF THE ARMY: To all the honeſt People of the NATION.</p>
+            <p>
+               <hi>Shewing Their</hi> RESOLUTION To Stand by the Good Old Cauſe And maintain the Liberties and Priviledges of the SUBjECT.</p>
+            <p>
+               <add>may 2<hi rend="sup">d</hi>
+               </add> 
+               <hi>London,</hi> Printed in the Year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168558:2"/>
+            <pb n="1" facs="tcp:168558:2"/>
+            <head>A DECLARATION Of the Faithfull Souldiers of the Ar<g ref="char:EOLhyphen"/>my, to the Honeſt People of the NATION.</head>
+            <p>WHereas it hath pleaſed God, out of his gracious Providence, to manifeſt to the Good People of this diſtract<g ref="char:EOLhyphen"/>ed Commonwealth, his Rule and Governe<g ref="char:EOLhyphen"/>ment amongſt us; We do now appeal to that Great God, whom we muſt own as the Great Comman<g ref="char:EOLhyphen"/>der of our Armies, and General of our Forces; acknowledging him to be the firſt Worker amongſt us.</p>
+            <p>By many ſignal Tokens it hath been made appa<g ref="char:EOLhyphen"/>rent, That God hath owned in a moſt eſpecial man<g ref="char:EOLhyphen"/>ner the poor Souldiery of this Nation; which muſt needs ſtrike real reflections upon the Conſciences of all ſober and honeſt Men, who have adventured thus far, and have found <hi>Jehovah-jireh,</hi> God in the Mount amongſt us.</p>
+            <pb n="2" facs="tcp:168558:3"/>
+            <p> As God hath made and appointed us for the gene<g ref="char:EOLhyphen"/>neral good of the Nation, ſo we do moſt ſeriouſly, with real hearts own the Godly of this Nation, and will be a Cove<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t to them, although to the deſtruction of our lives and fortunes, if God ſo pleaſes, for the general good of them all.</p>
+            <p>As for the breaches that are amongſt us, we claim an intereſt in them; for the Great God, for our ſinful deſerts, in our backſliding from him, hath laid this viſitation upon us; and ſo we muſt own his moſt legal dealings with us. The conſideration of which, does cauſe reflections upon our hearts humbly to own theſe his Chaſtiſements, and to conſider theſe remark<g ref="char:EOLhyphen"/>able Tokens of his love. For if we conſider the un<g ref="char:EOLhyphen"/>worthineſs of our dealings, and the ſpecious pretences which have gone along with us under fair gloſſes, we muſt confeſs, that what diſtractions are among us, are not anſwerable to our juſt deſerts; But we know, That the dealings of the Almighty are not to be found out; therefore we confeſs, That we have found God merciful although we have tranſgreſſed, <hi>For with him is mercy that he may be feared:</hi> and he hath thus dealt with us, that we might take notice of his long-ſuffering, and goodneſs to us; to his glory let us aſcribe it, and with thankful hearts return hearty praiſe for theſe great mercies received by us.</p>
+            <p>And now to come to a further ſerious Conſide<g ref="char:EOLhyphen"/>ration of Gods good dealing with us: we do de<g ref="char:EOLhyphen"/>ſire to praiſe the Lord for his uniting of the Army with ſuch Unanimity and Courage, to ſtand for,
+<pb n="3" facs="tcp:168558:3"/>and maintain the Good Old Cauſe ſo long contend<g ref="char:EOLhyphen"/>ed for, and which the Lord hath formerly ſo much owned, although our backſlidings might have gi<g ref="char:EOLhyphen"/>ven cauſe of a far greater judgement then hath yet befallen us: which we hope will be prevented by our return and owning our firſt Principles with ſo much cordial affection as is at this time declared amongſt us, although great oppoſition might be expected; But that God that can throw down at a blaſt the loftieſt Cedars, can alſo raiſe out of the earth ſmall Shrubs to glorifie him, and to do his Work: which with heart and mind is ſo much de<g ref="char:EOLhyphen"/>ſired by the Faithfull Members of the Army, as is at this day experienced amongſt us.</p>
+            <p>Therefore we pray, and hope it will alſo ſtir up the Faithfull of this Nation to this Conſideration, That although Objections may be raiſed againſt, and Aſperſions caſt upon the poor deſpiſed Inſtru<g ref="char:EOLhyphen"/>ments of this Work, yet are we unanimouſly re<g ref="char:EOLhyphen"/>ſolved to maintain our Firſt good Principles, and to own the Good Old Cauſe, as we have already teſtified; Firſt, by our Addreſſes for the rooting out of ſuperfluous and ill-affected Members of the Army; and Secondly, by our Real Deſires and Concordance with the Faithfull, known ſo to be, which were turned out without any juſt or lawfull account given therefore.</p>
+            <p>As God hath been pleaſed to inſtruct us ſo far to begin the Work, ſo we hope the Lord in his time will perfect the ſame for the general good and com<g ref="char:EOLhyphen"/>fort
+<pb n="4" facs="tcp:168558:4"/>of this Nation; not doubting but the honeſt People of this Commonwealth will take notice that that we are not Self-ſeekers, nor deſire to be Self-ended, but Conſcientious in theſe things; aſſured<g ref="char:EOLhyphen"/>ly knowing, that the Lord judgeth the moſt ſecret thoughts, and that no practiſe nor thing formed a<g ref="char:EOLhyphen"/>gai<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt God ſhall proſper, who is able to do his own Work without any Inſtruments at all</p>
+            <p>Therefore with ſerious reflections upon our conſci<g ref="char:EOLhyphen"/>ences, we do moſt humbly implore the Lord to bleſs theſe our honeſt deſires, and to go along with us in our hearty indeavours to glorifie him: And truly ſince the Lord hath been pleaſed to ſtir up our hearts in this great Work, to the glory of God be it ſpoken, we have likewiſe from the Faithful of the Nation re<g ref="char:EOLhyphen"/>ceived ſo great incouragement and concurrence in our deſires, in one and the ſame thing, that it doth great<g ref="char:EOLhyphen"/>ly incourage us; and we hope we ſhall with an unanimous courage ſhew our ſelves for our great God, for the <hi>Good Old Cauſe,</hi> and for the Good People of this Nation; To whom we do moſt un<g ref="char:EOLhyphen"/>feignedly preſent theſe Juſt Intendments wee are fixt upon.</p>
+            <p>And we likewiſe return moſt ſincere Thanks to the honeſt People of this Nation, eſpecially our cor<g ref="char:EOLhyphen"/>dial friends in this City and the Places adjacent, for their many good Exhortations, and the great En<g ref="char:EOLhyphen"/>couragement we have had from them in theſe our Pro<g ref="char:EOLhyphen"/>ceedings.</p>
+            <p>And truly wee hope the Lord will bleſs our real
+<pb n="5" facs="tcp:168558:4"/>indeavors in theſe our honeſt Principles: For we are not onely deſirous to deſtroy any Arbitrary Power that ſhall oppoſe us herein, but likewiſe to be Unani<g ref="char:EOLhyphen"/>mous for a preſent applying of our ſelves to the performance of that we do declare. And we deſire to make theſe our Purpoſes apparent, hoping that the Good People of this Nation will with ſerious hearts joine with us, as they have begun; and do not queſtion, but thoſe to whom we have acceſs, will faithfully own us, and give us incouragement in the ſame.</p>
+            <p>Theſe honeſt Reſolutions of ours, we thought fit to declare to the Good People of this Nation, not doubt<g ref="char:EOLhyphen"/>ing but that they will own, and ſtand by us, as long as we ſtand for the Good Old Cauſe. Deſiring the Lord to own us all, and to bring us to the wiſhed Effects of our Spiritual and Temporal deſires, for the Publick good of the Common-wealth; and in the end to e<g ref="char:EOLhyphen"/>ternalize us in the bleſſed union and fellowſhip of Himſelf in glory, is the hearty Prayer and Deſire of all the Honeſt and Faithful Souldiers in the Ar<g ref="char:EOLhyphen"/>my.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
